@@ -1,0 +1,73 @@
+			/* WEB PAGE SETTINGS + TEXTS */
+			
+			.container {
+
+				width: 400px;
+				margin: 0 auto;
+
+			}
+
+			.sample {
+
+			color: #ff0000;
+
+			}
+
+			/* LETTER FONTS :) ( LETTER FONTS ) */	
+
+			.p1 {
+			font-family: "Times New Roman", Times, serif;
+			}
+	  
+			.p2 {
+			font-family: Arial, Helvetica, sans-serif;
+			}
+	  
+			.p3 {
+			font-family: "Lucida Console", "Courier New", monospace;
+			}
+
+			/* PHOTOS AND STUFF */	
+			
+			.instagram {
+				display: block;
+				margin-left: 150px;
+				border-radius: 100px;
+			  }
+  
+			.tiktok {
+				display: block;
+				margin-left: 150px;
+				border-radius: 100px;
+			  }
+
+			.github {
+				display: block;
+				margin-left: 150px;
+				border-radius: 100px;
+			  }
+
+			.html5 {
+				display: block;
+				margin-left: 150px;
+			  }
+
+			/* TABLE OF ( NAME, SURNAME & FAVOURITE NUMBER ) */	
+
+			table {
+				font-family: arial, sans-serif;
+				border-collapse: collapse;
+				width: 100%;
+				}
+		
+				td, th {
+				border: 2px solid #ff0000;
+				text-align: left;
+				padding: 7.5px;
+		
+				}
+		
+				tr:nth-child(even) {
+				background-color: #dddddd;
+				}
+		
